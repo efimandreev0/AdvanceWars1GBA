@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\GoX2Tool\bin\Debug\GoX2Tool.exe.config
+C:\Users\zZz\source\repos\GoX2Tool\bin\Debug\GoX2Tool.exe
+C:\Users\zZz\source\repos\GoX2Tool\bin\Debug\GoX2Tool.pdb
+C:\Users\zZz\source\repos\GoX2Tool\obj\Debug\GoX2Tool.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\GoX2Tool\obj\Debug\GoX2Tool.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\GoX2Tool\obj\Debug\GoX2Tool.exe
+C:\Users\zZz\source\repos\GoX2Tool\obj\Debug\GoX2Tool.pdb
